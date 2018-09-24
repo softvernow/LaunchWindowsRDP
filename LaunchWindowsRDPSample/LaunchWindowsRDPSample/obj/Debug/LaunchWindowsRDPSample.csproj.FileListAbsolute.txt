@@ -1,0 +1,10 @@
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\bin\Debug\LaunchWindowsRDPSample.exe.config
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\bin\Debug\LaunchWindowsRDPSample.exe
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\bin\Debug\LaunchWindowsRDPSample.pdb
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.csprojResolveAssemblyReference.cache
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.Form1.resources
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.Properties.Resources.resources
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.csproj.GenerateResource.Cache
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.csproj.CoreCompileInputs.cache
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.exe
+c:\users\efortes\source\repos\LaunchWindowsRDPSample\LaunchWindowsRDPSample\obj\Debug\LaunchWindowsRDPSample.pdb
